@@ -1,0 +1,223 @@
+{
+  "use_direct_file": false,
+  "data_folder": "C:\\Users\\caio.silveira\\Documents\\Acompanhamento Produção V2",
+  "filename_pattern": "*.xlsx",
+  "file_path": "C:\\Users\\caio.silveira\\Desktop\\Projetos\\Projeto Carteira\\uploads\\Acompanhamento_Produção_202511.xlsx",
+  "sheet_name": "Base Produção",
+  "official_sheet": "Base",
+  "columns_map": {
+    "classe": "I",
+    "onda": "F",
+    "ds_onda": "",
+    "d_bucket": "Am",
+    "M": "M",
+    "N": "N",
+    "O": "O"
+  },
+  "year_filter": "",
+  "year_date_col": "B",
+  "fixed_class": "ZCHP",
+  "schedule": {
+    "type": "every_hours",
+    "hours": 24,
+    "time": "19:24",
+    "weekdays": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "last_refresh": "2025-11-27 19:01:40",
+  "host": "0.0.0.0",
+  "port": 5000,
+  "ondas": [
+    {
+      "onda": "1",
+      "ds_onda": "1 Reab"
+    },
+    {
+      "onda": "2",
+      "ds_onda": "2 Projeto 14h"
+    },
+    {
+      "onda": "3",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "4",
+      "ds_onda": "4 Venda MG + Emergencial"
+    },
+    {
+      "onda": "5",
+      "ds_onda": "5 Venda Campo Grande + Emerge"
+    },
+    {
+      "onda": "6",
+      "ds_onda": "6 Venda Bahia + Emergencial"
+    },
+    {
+      "onda": "7",
+      "ds_onda": "7 Venda Bahia + Emergencial"
+    },
+    {
+      "onda": "8",
+      "ds_onda": "8 Transit Point - SJRioPreto/"
+    },
+    {
+      "onda": "9",
+      "ds_onda": "9 Transit Point - Rio de Janei"
+    },
+    {
+      "onda": "10",
+      "ds_onda": "10 Transit Point - São José do"
+    },
+    {
+      "onda": "11",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "12",
+      "ds_onda": "12 Santos"
+    },
+    {
+      "onda": "13",
+      "ds_onda": "13 Campinas"
+    },
+    {
+      "onda": "14",
+      "ds_onda": "14 CS Remessa 01"
+    },
+    {
+      "onda": "15",
+      "ds_onda": "15 Atibaia"
+    },
+    {
+      "onda": "16",
+      "ds_onda": "16 Sorocaba"
+    },
+    {
+      "onda": "17",
+      "ds_onda": "17 Sorocaba"
+    },
+    {
+      "onda": "18",
+      "ds_onda": "18 Fiorinos e Correios"
+    },
+    {
+      "onda": "19",
+      "ds_onda": "19 Transit Point São Miguel"
+    },
+    {
+      "onda": "20",
+      "ds_onda": "20 Transit Point Aricanduva"
+    },
+    {
+      "onda": "21",
+      "ds_onda": "21 Transit Point Gasometro"
+    },
+    {
+      "onda": "22",
+      "ds_onda": "22 Transit Point Santo Andre"
+    },
+    {
+      "onda": "23",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "24",
+      "ds_onda": "24 Zona Leste"
+    },
+    {
+      "onda": "25",
+      "ds_onda": "25 Abc"
+    },
+    {
+      "onda": "26",
+      "ds_onda": "26 Zona Sul + Extremos Sul"
+    },
+    {
+      "onda": "27",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "28",
+      "ds_onda": "28 Zona Norte"
+    },
+    {
+      "onda": "29",
+      "ds_onda": "29 Zona Oeste"
+    },
+    {
+      "onda": "30",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "31",
+      "ds_onda": "31 Maquinas"
+    },
+    {
+      "onda": "32",
+      "ds_onda": "32 Solicitação 1036"
+    },
+    {
+      "onda": "33",
+      "ds_onda": "33 2ª Saída"
+    },
+    {
+      "onda": "34",
+      "ds_onda": "34 Parceiros"
+    },
+    {
+      "onda": "35",
+      "ds_onda": "35 CS - Leroy"
+    },
+    {
+      "onda": "36",
+      "ds_onda": "Vago"
+    },
+    {
+      "onda": "37",
+      "ds_onda": "37 CS Remessa 02"
+    },
+    {
+      "onda": "38",
+      "ds_onda": "38 CS Remessa 02"
+    },
+    {
+      "onda": "39",
+      "ds_onda": "39 Leo SobMedida"
+    },
+    {
+      "onda": "40",
+      "ds_onda": "40 Retira Loja 1058"
+    },
+    {
+      "onda": "42",
+      "ds_onda": "42 CS Emergencial"
+    },
+    {
+      "onda": "44",
+      "ds_onda": "44 Cliente Retira CD"
+    }
+  ],
+  "raw_map": {
+    "data_oficial": "DATA OFICIAL",
+    "cd_onda": "CD_ONDA",
+    "cd_rota": "CD_ROTA",
+    "nu_pedido_origem": "NU_PEDIDO_ORIGEM",
+    "nu_separacao": "NU_SEPARACAO",
+    "tp_pedido": "TP_PEDIDO",
+    "cd_classe": "CD_CLASSE",
+    "cd_endereco": "CD_ENDERECO",
+    "cd_produto": "CD_PRODUTO",
+    "ds_produto": "DS_PRODUTO",
+    "qt_produto": "QT_PRODUTO",
+    "qt_separado": "QT_SEPARADO",
+    "qt_cancelado": "QT_CANCELADO",
+    "dh_separacao": "Data Hora Separação",
+    "status_separacao": "STATUS_SEPARACAO",
+    "ds": "DS"
+  }
+}

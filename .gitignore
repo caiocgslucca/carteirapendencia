@@ -1,0 +1,17 @@
+
+# ignorar arquivos grandes e temporários
+.cache/
+uploads/
+*.pkl
+*.xlsx
+
+# python
+__pycache__/
+*.pyc
+
+# build
+dist/
+build/
+
+# outros
+*.log

@@ -1,0 +1,27 @@
+[9452:23620:1101/163800.622:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[6848:11688:1101/163801.306:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[9128:11832:1101/163801.593:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[16328:19148:1101/163801.616:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[9452:23620:1101/163803.736:INFO:CONSOLE:5] "App started with platform: 602", source: https://peepi-vite.b-cdn.net/assets/tooling.579db21b.js (5)
+[15416:30996:1101/163804.331:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[9452:23620:1101/163804.805:INFO:CONSOLE:0] "[DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o", source: https://universoleo.comunitive.app/login (0)
+[31004:31524:1101/163805.006:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[11296:25404:1101/163805.326:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[15828:23724:1101/163806.532:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[21784:9512:1101/163807.837:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[29568:4108:1101/163807.954:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[9452:23620:1101/163808.210:INFO:CONSOLE:0] "Potential permissions policy violation: payment is not allowed in this document.", source:  (0)
+[9452:23620:1101/163808.221:INFO:CONSOLE:5] "Service worker is ready.", source: https://peepi-vite.b-cdn.net/assets/tooling.579db21b.js (5)
+[24412:18636:1101/163808.443:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[2580:3652:1101/163808.460:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[9452:23620:1101/163808.963:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yN/r/PLMCwyGAJ0Q.js (113)
+[940:17964:1101/163809.037:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 12
+[2580:27276:1101/163825.757:ERROR:media\base\status.h:517] DecoderStatus::0
+[9452:19172:1101/163845.959:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+[9452:23620:1101/163846.764:INFO:CONSOLE:113] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yN/r/PLMCwyGAJ0Q.js (113)
+[2580:27276:1101/163849.177:ERROR:media\base\status.h:517] DecoderStatus::0
+[9452:19172:1101/163914.034:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+[21132:22664:1101/164001.401:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[9452:19172:1101/164012.840:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+[9452:19172:1101/164155.826:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+[9452:19172:1101/164446.592:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT

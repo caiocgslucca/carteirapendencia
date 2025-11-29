@@ -1,0 +1,77 @@
+{
+  "enabled": false,
+  "use_24h": true,
+  "start_time": "08:00",
+  "end_time": "22:00",
+  "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "frequency_minutes": 60,
+  "message_text": "Msg automatica\r\n\r\nOlá,\r\n\r\n🚀📊Atualizações📊🚀",
+  "numbers": [
+    "+11931451242"
+  ],
+  "groups": [
+    "Teste Robo Mensageiro"
+  ],
+  "attachments": [],
+  "attachments_mode": "files",
+  "attachments_folder": "",
+  "file_captions": {
+    "Caio Cezar": "Caio Cezar"
+  },
+  "custom_items": [
+    {
+      "id": "322c5c8045dc416895f235969f1566e6",
+      "type": "folder",
+      "path": "C:\\Users\\caio.silveira\\Desktop\\Projetos\\Projeto Carteira\\uploads_msg\\folder_20251102_002339_165714",
+      "text": "Indicador 1",
+      "interval": null,
+      "origin": "C:/Users/caio.silveira/Desktop/Ind1",
+      "autosync": true
+    },
+    {
+      "id": "2dea211a30254aec91f9b4e8d26f2a1e",
+      "type": "folder",
+      "path": "C:\\Users\\caio.silveira\\Desktop\\Projetos\\Projeto Carteira\\uploads_msg\\folder_20251102_002354_749285",
+      "text": "Indicador 2",
+      "interval": null,
+      "origin": "C:/Users/caio.silveira/Desktop/Ind2",
+      "autosync": true
+    }
+  ],
+  "item_states": {
+    "7ab5fb45a12b49789a1f9cc4906da585": {
+      "last_sent": "2025-11-01 21:47:22"
+    },
+    "60612b93024b41ceb2621ff3bae9496f": {
+      "last_sent": "2025-11-01 21:47:45"
+    },
+    "9191c1dec7ca4d7792b144a694b1a0df": {
+      "last_sent": "2025-11-01 21:27:48"
+    },
+    "5d4bec068a05401e8579c63c717eba13": {
+      "last_sent": "2025-11-01 21:28:16"
+    },
+    "322c5c8045dc416895f235969f1566e6": {
+      "last_sent": "2025-11-03 10:42:34",
+      "next_run_at": "2025-11-03 19:27:30"
+    },
+    "2dea211a30254aec91f9b4e8d26f2a1e": {
+      "last_sent": "2025-11-03 10:43:14",
+      "next_run_at": "2025-11-03 19:28:10"
+    }
+  },
+  "close_after_send": false,
+  "last_run": "2025-11-03 18:40:59",
+  "run_mode": "visible",
+  "general_folder_origin": "",
+  "general_folder_autosync": false,
+  "enabled_at": null,
+  "headless": false
+}
